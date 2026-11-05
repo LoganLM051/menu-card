@@ -1,0 +1,36 @@
+body {
+background-color:khaki;
+font-family:helvetica;
+max-width:40rem;
+margin:40px auto;
+}
+h1 {
+color:brown;
+text-align:center;
+}
+form {
+    background-color:white;
+    padding:18px;
+    border-radius:15px;
+}
+textarea{
+    width:100%;
+}
+button{
+    background-color:rgb(167, 155, 49);
+    color:white;
+    padding:10px;
+    border-radius:15px;
+}
+#count {
+    text-align:center;
+    font-style:italic;
+}
+#menu-text{
+    white-space:pre-line;
+    padding:20px;
+    border-radius:10px;
+}
+#menu-text:empty{
+display:none;
+}
