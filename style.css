@@ -21,6 +21,7 @@ button{
     color:white;
     padding:10px;
     border-radius:15px;
+    cursor:pointer;
 }
 #count {
     text-align:center;
@@ -28,8 +29,12 @@ button{
 }
 #menu-text{
     white-space:pre-line;
+    text-align:center;
+    spacing:15px;
     padding:20px;
     border-radius:10px;
+    background-color:brown;
+    color:khaki;
 }
 #menu-text:empty{
 display:none;
